@@ -1,0 +1,4 @@
+.idea
+letter/__pycache__
+letter/migrations/__pycache__
+newsletter/__pycache__
